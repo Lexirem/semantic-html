@@ -1,0 +1,23 @@
+header{
+    background-color: greenyellow;
+    width: 50%;
+}
+nav{
+    background-color: orange;
+    width: 30%
+}
+section{
+    background-color: yellow;
+    width: 70%;
+}
+article{
+    background-color: darkorange;
+    width: 30%;
+}
+aside{
+    background-color: gray;
+}
+footer{
+    background-color: aqua;
+    width: 30%;
+}
