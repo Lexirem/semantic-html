@@ -17,6 +17,10 @@ article{
 aside{
     background-color: gray;
 }
+div{
+    display: flex;
+    flex-direction: row;
+}
 footer{
     background-color: aqua;
     width: 30%;
