@@ -9,13 +9,16 @@ nav{
 section{
     background-color: yellow;
     width: 70%;
+    padding-left: 5%;
 }
 article{
     background-color: darkorange;
     width: 30%;
+    padding-left: 3%;
 }
 aside{
     background-color: gray;
+    padding-right: 10%;
 }
 div{
     display: flex;
